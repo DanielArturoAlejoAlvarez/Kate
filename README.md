@@ -14,7 +14,7 @@ $ git clone https://github.com/DanielArturoAlejoAlvarez/Kate.git [NAME APP]
 Follow the following steps and you're good to go! Important:
 
 
-![alt text]
+![alt text](https://blog.penjee.com/wp-content/uploads/2015/03/while-loop-animation-python.gif)
 
 
 ## Coding
